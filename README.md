@@ -43,7 +43,7 @@ Follow the steps below to run the project successfully:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/etrazia17/Complaint_Summarizer-Analyzer_System>
 cd Complaint-Summarizer-Analyzer
 ````
 
