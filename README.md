@@ -1,4 +1,3 @@
-```markdown
 # Complaint Summarizer and Analyzer System (Using Logistic Regression)
 
 ## Project Description
@@ -6,7 +5,6 @@ This project implements a **Complaint Summarizer and Analyzer System** using bas
 The system preprocesses textual complaints, builds a vocabulary, analyzes word importance, classifies complaints, and visualizes results using graphs.  
 It is designed as a simple, educational lab project to demonstrate text preprocessing, feature extraction, classification, and analysis using Python.
 
----
 
 ## Project Members
 
@@ -15,7 +13,6 @@ It is designed as a simple, educational lab project to demonstrate text preproce
 - **Eesha Tir Razia** — 22SP-061-CS  
 - **Shajia Fatima** — 22SP-063-CS  
 
----
 
 ## Project Structure
 
@@ -83,6 +80,6 @@ python src/main.py
 * The source code has not been modified beyond standard execution requirements.
 * All NLP resources are installed externally to maintain code integrity.
 
-```
+
 
 
